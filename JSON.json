@@ -1,0 +1,4129 @@
+{
+    "GENERALES": {
+        "SENSORES": {}
+    },
+    "ILUMINACION": {
+        "GENERAL ILUMINACION": {
+            "BLOQUEO CTOS BAJO MEZANINNE": {
+                "DG": "1/0/0",
+                "DPT": "1.003"
+            }
+        },
+        "QG.TC.01": {
+            "SW - QGTC01 - TOF - TL ILU - CTO 1 ILU OFICINA 2": {
+                "DG": "1/1/0",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TOF - TL ILU - CTO 2 ILU OFICINA 1": {
+                "DG": "1/1/1",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TOF - TL ILU - CTO 3 ILU BANOS": {
+                "DG": "1/1/2",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TOF - TL ILU - CTO 4 ILU ZONA DE ESPERA": {
+                "DG": "1/1/3",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEZT - TL ILU - CTO 1-2 ILU FACHADA": {
+                "DG": "1/1/4",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEZT - TL ILU - CTO 3-4I LUMINACION FACHADA 2": {
+                "DG": "1/1/5",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEZT - TL ILU - CTO 5-6 RESERVA EQUIPADA": {
+                "DG": "1/1/6",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZT - TL ILU - CTO 1-2 ILU PLATAFORMA TECNICA": {
+                "DG": "1/1/7",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZT - TL ILU - CTO 3-4 ILU PLATAFORMA TECNICA 2": {
+                "DG": "1/1/8",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZT - TL ILU - CTO 5 -6 ILU CUBIERTA": {
+                "DG": "1/1/9",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZT - TL ILU - CTO 7-8 ILU CUBIERTA": {
+                "DG": "1/1/10",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEL - TL ILU - INVERSOR 1 LACTEOS": {
+                "DG": "1/1/11",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEL - TL ILU - INVERSOR 2 LACTEOS": {
+                "DG": "1/1/12",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEL - TL ILU - RESERVA EQUIPADA": {
+                "DG": "1/1/14",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEL - TL ILU - RESERVA EQUIPADA_1": {
+                "DG": "1/1/14",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 1-2 ILU RACK�S LACTEOS": {
+                "DG": "1/1/15",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 3-4 ILU RACK�S LACTEOS": {
+                "DG": "1/1/16",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 5-6 ILU RACK�S LACTEOS": {
+                "DG": "1/1/17",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 7-8 ILU RACK�S LACTEOS": {
+                "DG": "1/1/18",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 9-10 ILU RACK�S LACTEOS": {
+                "DG": "1/1/19",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 11-12 ILU RACK�S LACTEOS": {
+                "DG": "1/1/20",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 13-14 ILU RACK�S LACTEOS": {
+                "DG": "1/1/21",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 15 - 16ILU RACK�S LACTEOS": {
+                "DG": "1/1/22",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 17-18 ILU PASILLO": {
+                "DG": "1/1/23",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 19 -20 ILU PASILLO": {
+                "DG": "1/1/24",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 21 -22 ILU PALETS LACTEOS": {
+                "DG": "1/1/25",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 23 -24 ILU PALETS LACTEOS": {
+                "DG": "1/1/26",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TL - TL ILU - CTO 25 -26 ILU RACK�S LACTEOS": {
+                "DG": "1/1/27",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 1-2 ILU CONGELADOS": {
+                "DG": "1/1/28",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 3-4 ILU CONGELADOS": {
+                "DG": "1/1/29",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 5-6 ILU CONGELADOS": {
+                "DG": "1/1/30",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 7-8 ILU CONGELADOS": {
+                "DG": "1/1/31",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 9-10 ILU RACK�S FRUVER": {
+                "DG": "1/1/32",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 11-12 ILU RACK�S FRUVER": {
+                "DG": "1/1/33",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 13-14 ILU RACK�S FRUVER": {
+                "DG": "1/1/34",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 15-16 ILU RACK�S FRUVER": {
+                "DG": "1/1/35",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 17-18 ILU PALETS FRUVER": {
+                "DG": "1/1/36",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 19-20 ILU PALETS FRUVER": {
+                "DG": "1/1/37",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 21-22 ILU PALETS FRUVER": {
+                "DG": "1/1/38",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TF - TL ILU - CTO 23-24 ILU RACK�S FRUVER": {
+                "DG": "1/1/39",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEF - TL ILU - CTO 1-2 INVERSOR 1 FRUVER": {
+                "DG": "1/1/40",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEF - TL ILU - CTO 3-4 INVERSOR 2 FRUVER": {
+                "DG": "1/1/41",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEF - TL ILU - CTO 5 RESERVA EQUIPADA": {
+                "DG": "1/1/42",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TEF - TL ILU - CTO 6 RESERVA EQUIPADA": {
+                "DG": "1/1/43",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TP - TL ILU - CTO 1 ILU OFICINA PORTERIA": {
+                "DG": "1/1/44",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TP - TL ILU - CTO 2 ILU BANO-PASILLO-TECNICO": {
+                "DG": "1/1/45",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 1-2 ILU EXTERIOR": {
+                "DG": "1/1/46",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 3-4 ILU EXTERIOR": {
+                "DG": "1/1/47",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 5-6 ILU EXTERIOR": {
+                "DG": "1/1/48",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 7-8 ILU EXTERIOR": {
+                "DG": "1/1/49",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 9 ILU EXTERIOR PORTERIA": {
+                "DG": "1/1/50",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 10 ILU EXTERIOR PORTERIA": {
+                "DG": "1/1/51",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - CTO 11-12 ALIMENTACION TALANQUERAS": {
+                "DG": "1/1/52",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TIEP - TL ILU - RESERVA EQUIPADA": {
+                "DG": "1/1/53",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 1 ILU PLANTAS Y SUBESTACION": {
+                "DG": "1/1/54",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 2 ILU PASILLO Y CUARTO TECNICO FRIOS": {
+                "DG": "1/1/55",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 3 ILU CUARTO FRIO INDUSTRIAL": {
+                "DG": "1/1/56",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 4 ILU EMERGENCIA.": {
+                "DG": "1/1/57",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 5 ILU BANOS": {
+                "DG": "1/1/58",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 6 ILU ZONA DE DESCANSO-PASILLOS": {
+                "DG": "1/1/59",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 7 ILU ACCESO Y CUARTO BATERIAS": {
+                "DG": "1/1/60",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 8 ILU BODEGA 1 Y 2": {
+                "DG": "1/1/61",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 9 ILU BODEGA 3": {
+                "DG": "1/1/62",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 10 ILU TUNEL DE FRIO": {
+                "DG": "1/1/63",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 11 ILU CONTENEDORES": {
+                "DG": "1/1/64",
+                "DPT": "1.006"
+            },
+            "SW - QGTC01 - TZTF - TL ILU - CTO 12 ILU CONTENEDORES": {
+                "DG": "1/1/65",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TOF - TL ILU - CTO 1 ILU OFICINA 2": {
+                "DG": "1/1/66",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TOF - TL ILU - CTO 2 ILU OFICINA 1": {
+                "DG": "1/1/67",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TOF - TL ILU - CTO 3 ILU BANOS": {
+                "DG": "1/1/68",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TOF - TL ILU - CTO 4 ILU ZONA DE ESPERA": {
+                "DG": "1/1/69",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEZT - TL ILU - CTO 1-2 ILU FACHADA": {
+                "DG": "1/1/70",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEZT - TL ILU - CTO 3-4I LUMINACION FACHADA 2": {
+                "DG": "1/1/71",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEZT - TL ILU - CTO 5-6 RESERVA EQUIPADA": {
+                "DG": "1/1/72",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZT - TL ILU - CTO 1-2 ILU PLATAFORMA TECNICA": {
+                "DG": "1/1/73",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZT - TL ILU - CTO 3-4 ILU PLATAFORMA TECNICA 2": {
+                "DG": "1/1/74",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZT - TL ILU - CTO 5 -6 ILU CUBIERTA": {
+                "DG": "1/1/75",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZT - TL ILU - CTO 7-8 ILU CUBIERTA": {
+                "DG": "1/1/76",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEL - TL ILU - INVERSOR 1 LACTEOS": {
+                "DG": "1/1/77",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEL - TL ILU - INVERSOR 2 LACTEOS": {
+                "DG": "1/1/78",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEL - TL ILU - RESERVA EQUIPADA": {
+                "DG": "1/1/80",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEL - TL ILU - RESERVA EQUIPADA_2": {
+                "DG": "1/1/80",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 1-2 ILU RACK�S LACTEOS": {
+                "DG": "1/1/81",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 3-4 ILU RACK�S LACTEOS": {
+                "DG": "1/1/82",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 5-6 ILU RACK�S LACTEOS": {
+                "DG": "1/1/83",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 7-8 ILU RACK�S LACTEOS": {
+                "DG": "1/1/84",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 9-10 ILU RACK�S LACTEOS": {
+                "DG": "1/1/85",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 11-12 ILU RACK�S LACTEOS": {
+                "DG": "1/1/86",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 13-14 ILU RACK�S LACTEOS": {
+                "DG": "1/1/87",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 15 - 16ILU RACK�S LACTEOS": {
+                "DG": "1/1/88",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 17-18 ILU PASILLO": {
+                "DG": "1/1/89",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 19 -20 ILU PASILLO": {
+                "DG": "1/1/90",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 21 -22 ILU PALETS LACTEOS": {
+                "DG": "1/1/91",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 23 -24 ILU PALETS LACTEOS": {
+                "DG": "1/1/92",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TL - TL ILU - CTO 25 -26 ILU RACK�S LACTEOS": {
+                "DG": "1/1/93",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 1-2 ILU CONGELADOS": {
+                "DG": "1/1/94",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 3-4 ILU CONGELADOS": {
+                "DG": "1/1/95",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 5-6 ILU CONGELADOS": {
+                "DG": "1/1/96",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 7-8 ILU CONGELADOS": {
+                "DG": "1/1/97",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 9-10 ILU RACK�S FRUVER": {
+                "DG": "1/1/98",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 11-12 ILU RACK�S FRUVER": {
+                "DG": "1/1/99",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 13-14 ILU RACK�S FRUVER": {
+                "DG": "1/1/100",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 15-16 ILU RACK�S FRUVER": {
+                "DG": "1/1/101",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 17-18 ILU PALETS FRUVER": {
+                "DG": "1/1/102",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 19-20 ILU PALETS FRUVER": {
+                "DG": "1/1/103",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 21-22 ILU PALETS FRUVER": {
+                "DG": "1/1/104",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TF - TL ILU - CTO 23-24 ILU RACK�S FRUVER": {
+                "DG": "1/1/105",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEF - TL ILU - CTO 1-2 INVERSOR 1 FRUVER": {
+                "DG": "1/1/106",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEF - TL ILU - CTO 3-4 INVERSOR 2 FRUVER": {
+                "DG": "1/1/107",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEF - TL ILU - CTO 5 RESERVA EQUIPADA": {
+                "DG": "1/1/108",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TEF - TL ILU - CTO 6 RESERVA EQUIPADA": {
+                "DG": "1/1/109",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TP - TL ILU - CTO 1 ILU OFICINA PORTERIA": {
+                "DG": "1/1/110",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TP - TL ILU - CTO 2 ILU BANO-PASILLO-TECNICO": {
+                "DG": "1/1/111",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 1-2 ILU EXTERIOR": {
+                "DG": "1/1/112",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 3-4 ILU EXTERIOR": {
+                "DG": "1/1/113",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 5-6 ILU EXTERIOR": {
+                "DG": "1/1/114",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 7-8 ILU EXTERIOR": {
+                "DG": "1/1/115",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 9 ILU EXTERIOR PORTERIA": {
+                "DG": "1/1/116",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 10 ILU EXTERIOR PORTERIA": {
+                "DG": "1/1/117",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - CTO 11-12 ALIMENTACION TALANQUERAS": {
+                "DG": "1/1/118",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TIEP - TL ILU - RESERVA EQUIPADA": {
+                "DG": "1/1/119",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 1 ILU PLANTAS Y SUBESTACION": {
+                "DG": "1/1/120",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 2 ILU PASILLO Y CUARTO TECNICO FRIOS": {
+                "DG": "1/1/121",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 3 ILU CUARTO FRIO INDUSTRIAL": {
+                "DG": "1/1/122",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 4 ILU EMERGENCIA.": {
+                "DG": "1/1/123",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 5 ILU BANOS": {
+                "DG": "1/1/124",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 6 ILU ZONA DE DESCANSO-PASILLOS": {
+                "DG": "1/1/125",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 7 ILU ACCESO Y CUARTO BATERIAS": {
+                "DG": "1/1/126",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 8 ILU BODEGA 1 Y 2": {
+                "DG": "1/1/127",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 9 ILU BODEGA 3": {
+                "DG": "1/1/128",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 10 ILU TUNEL DE FRIO": {
+                "DG": "1/1/129",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 11 ILU CONTENEDORES": {
+                "DG": "1/1/130",
+                "DPT": "1.006"
+            },
+            "RS - QGTC01 - TZTF - TL ILU - CTO 12 ILU CONTENEDORES": {
+                "DG": "1/1/131",
+                "DPT": "1.006"
+            }
+        },
+        "QG.TC.02/1": {
+            "SW -L1X-DGI-TC2-TL 1-TZTS-ILUMINACION DEVOLUCIONES-GARANTIAS-IT": {
+                "DG": "1/2/0",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1X-DGI-TC2-TL 1-TZTS-ILUMINACION DEVOLUCIONES-GARANTIAS-IT": {
+                "DG": "1/2/1",
+                "DPT": "1.006"
+            },
+            "SW -L2X-MT-TC2-TL 2-TZTS-ILUMINACION MARKETING Y TECNICA": {
+                "DG": "1/2/2",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L2X-MT-TC2-TL 2-TZTS-ILUMINACION MARKETING Y TECNICA": {
+                "DG": "1/2/3",
+                "DPT": "1.003"
+            },
+            "SW -L3X-MT-TC2-TL 3-TZTS-ILUMINACION MARKETING Y TECNICA": {
+                "DG": "1/2/4",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3X-MT-TC2-TL 3-TZTS-ILUMINACION MARKETING Y TECNICA": {
+                "DG": "1/2/5",
+                "DPT": "1.006"
+            },
+            "SW -L4X-MAT-TC2-TL 4-TZTS-ILUMINACION MACULATURA- AREA TECNICA": {
+                "DG": "1/2/6",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L4X-MAT-TC2-TL 4-TZTS-ILUMINACION MACULATURA- AREA TECNICA": {
+                "DG": "1/2/7",
+                "DPT": "1.006"
+            },
+            "SW -L5X-MAT-TC2-TL 5-TZTS-ILUMINACION MACULATURA- AREA TECNICA": {
+                "DG": "1/2/8",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5X-MAT-TC2-TL 5-TZTS-ILUMINACION MACULATURA- AREA TECNICA": {
+                "DG": "1/2/9",
+                "DPT": "1.006"
+            },
+            "SW -L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/2/10",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/2/11",
+                "DPT": "1.006"
+            },
+            "SW -L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/2/12",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/2/13",
+                "DPT": "1.006"
+            },
+            "SW -L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/14",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/15",
+                "DPT": "1.006"
+            },
+            "SW -L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/16",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/17",
+                "DPT": "1.006"
+            },
+            "SW -L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/18",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/19",
+                "DPT": "1.006"
+            },
+            "SW -L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/20",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/21",
+                "DPT": "1.006"
+            },
+            "SW -L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/22",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/23",
+                "DPT": "1.006"
+            },
+            "SW -L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/24",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/25",
+                "DPT": "1.006"
+            },
+            "SW -L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/26",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/27",
+                "DPT": "1.006"
+            },
+            "SW -L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/28",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/29",
+                "DPT": "1.006"
+            },
+            "SW -L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/30",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/2/31",
+                "DPT": "1.006"
+            },
+            "SW -L1/2X-B4-TC2-TL 1-TEB4-INVERSOR 1 BODEGA 4": {
+                "DG": "1/2/32",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-B4-TC2-TL 1-TEB4-INVERSOR 1 BODEGA 4": {
+                "DG": "1/2/33",
+                "DPT": "1.006"
+            },
+            "SW -L3/4X-RE-TC2-TL 2-TEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/34",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-RE-TC2-TL 2-TEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/35",
+                "DPT": "1.006"
+            },
+            "SW -L1/2X-MLL-TC2-TL 1-TIEB4-ILIMINACION MUELLES": {
+                "DG": "1/2/36",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-MLL-TC2-TL 1-TIEB4-ILIMINACION MUELLES": {
+                "DG": "1/2/37",
+                "DPT": "1.006"
+            },
+            "SW -L3/4X-MLL-TC2-TL 2-TIEB4-ILIMINACION MUELLES": {
+                "DG": "1/2/38",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-MLL-TC2-TL 2-TIEB4-ILIMINACION MUELLES": {
+                "DG": "1/2/39",
+                "DPT": "1.006"
+            },
+            "SW -L5/6X-EXT-TC2-TL 3-TIEB4-ILUMINACION EXTERIOR": {
+                "DG": "1/2/40",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6X-EXT-TC2-TL 3-TIEB4-ILUMINACION EXTERIOR": {
+                "DG": "1/2/41",
+                "DPT": "1.006"
+            },
+            "SW -L7/8X-EXT-TC2-TL 4-TIEB4-ILUMINACION EXTERIOR": {
+                "DG": "1/2/42",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8X-EXT-TC2-TL 4-TIEB4-ILUMINACION EXTERIOR": {
+                "DG": "1/2/43",
+                "DPT": "1.006"
+            },
+            "SW -L9X-RE-TC2-TL 5-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/44",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9X-RE-TC2-TL 5-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/45",
+                "DPT": "1.006"
+            },
+            "SW -L10X-RE-TC2-TL 6-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/46",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L10X-RE-TC2-TL 6-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/47",
+                "DPT": "1.006"
+            },
+            "SW -L11X-RE-TC2-TL 6-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/48",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11X-RE-TC2-TL 6-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/49",
+                "DPT": "1.006"
+            },
+            "SW -L12X-RE-TC2-TL 7-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/50",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L12X-RE-TC2-TL 7-TIEB4-RESERVA EQUIPADA": {
+                "DG": "1/2/51",
+                "DPT": "1.006"
+            },
+            "SW -L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/52",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/53",
+                "DPT": "1.006"
+            },
+            "SW -L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/54",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/55",
+                "DPT": "1.006"
+            },
+            "SW -L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/56",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/57",
+                "DPT": "1.006"
+            },
+            "SW -L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/58",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/59",
+                "DPT": "1.006"
+            },
+            "SW -L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/60",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/2/61",
+                "DPT": "1.006"
+            },
+            "SW -L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/62",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/63",
+                "DPT": "1.006"
+            },
+            "SW -L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/64",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/65",
+                "DPT": "1.006"
+            },
+            "SW -L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/66",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/67",
+                "DPT": "1.006"
+            },
+            "SW -L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/68",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/2/69",
+                "DPT": "1.006"
+            },
+            "SW -L19/20D-RE-TC2-TL 10-TB3-RESERVA EQUIPADA": {
+                "DG": "1/2/70",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L19/20D-RE-TC2-TL 10-TB3-RESERVA EQUIPADA": {
+                "DG": "1/2/71",
+                "DPT": "1.006"
+            },
+            "SW -L1/2X-B3-TC2-TL 1-TEB3-INVERSOR 1 BODEGA 3": {
+                "DG": "1/2/72",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-B3-TC2-TL 1-TEB3-INVERSOR 1 BODEGA 3": {
+                "DG": "1/2/73",
+                "DPT": "1.006"
+            },
+            "SW -L3/4X-RE-TC2-TL 2-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/74",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-RE-TC2-TL 2-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/75",
+                "DPT": "1.006"
+            },
+            "SW -L5X-RE-TC2-TL 3-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/76",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5X-RE-TC2-TL 3-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/77",
+                "DPT": "1.006"
+            },
+            "SW -L6X-RE-TC2-TL 4-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/78",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L6X-RE-TC2-TL 4-TEB3-RESERVA EQUIPADA": {
+                "DG": "1/2/79",
+                "DPT": "1.006"
+            },
+            "SW -L1/2X-PT-TC2-TL 1-TPB4-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/2/80",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-PT-TC2-TL 1-TPB4-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/2/81",
+                "DPT": "1.006"
+            },
+            "SW -L3/4X-PT-TC2-TL 2-TPB4-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/2/82",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-PT-TC2-TL 2-TPB4-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/2/83",
+                "DPT": "1.006"
+            },
+            "SW -L5/6X-CB-TC2-TL 3-TPB4-ILUMINACION CUBIERTA": {
+                "DG": "1/2/84",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6X-CB-TC2-TL 3-TPB4-ILUMINACION CUBIERTA": {
+                "DG": "1/2/85",
+                "DPT": "1.006"
+            },
+            "SW -L7/8X-CB-TC2-TL 4-TPB4-ILUMINACION CUBIERTA": {
+                "DG": "1/2/86",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8X-CB-TC2-TL 4-TPB4-ILUMINACION CUBIERTA": {
+                "DG": "1/2/87",
+                "DPT": "1.006"
+            }
+        },
+        "QG.TC.02/2": {
+            "REG_ABS 1 BYTE 0-10_ L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/0",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/1",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/2",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L1/2D-PL-TC2-TL 1-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/3",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/4",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/5",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/6",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L3/4D-PL-TC2-TL 2-TB4-ILUMINACION PALETS": {
+                "DG": "1/3/7",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/8",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/9",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/10",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L5/6D-RS-TC2-TL 3-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/11",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/12",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/13",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/14",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L7/8D-RS-TC2-TL 4-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/15",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/16",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/17",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/18",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L9/10D-RS-TC2-TL 5-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/19",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/20",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/21",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/22",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L11/12D-RS-TC2-TL 6-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/23",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/24",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/25",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/26",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L13/14D-RS-TC2-TL 7-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/27",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/28",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/29",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/30",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L15/16D-RS-TC2-TL 8-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/31",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/32",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/33",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/34",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L17/18D-RS-TC2-TL 9-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/35",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/36",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/37",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/38",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L19/20D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/39",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/40",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/41",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/42",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L23/24D-RS-TC2-TL 10-TB4-ILUMINACION RACK�S": {
+                "DG": "1/3/43",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/44",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/45",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/46",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L1/2D-PL-TC2-TL 1-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/47",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/48",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/49",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/50",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L3/4D-PL-TC2-TL 2-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/51",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/52",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/53",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/54",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L5/6D-RS-TC2-TL 3-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/55",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/56",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/57",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/58",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L7/8D-RS-TC2-TL 4-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/59",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/60",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/61",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/62",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L9/10D-RS-TC2-TL 5-TB3-ILUMINACION RACK�S": {
+                "DG": "1/3/63",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/64",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/65",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/66",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L11/12D-PL-TC2-TL 6-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/67",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/68",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/69",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/70",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L13/14D-PL-TC2-TL 7-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/71",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/72",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/73",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/74",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L15/16D-PL-TC2-TL 8-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/75",
+                "DPT": "1.001"
+            },
+            "REG_ABS 1 BYTE 0-10_ L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/76",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10_ L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/77",
+                "DPT": "5.001"
+            },
+            "ON/OFF  0-10_ L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/78",
+                "DPT": "1.001"
+            },
+            "RS_ON/OFF  0-10_ L17/18D-PL-TC2-TL 9-TB3-ILUMINACION PALETS": {
+                "DG": "1/3/79",
+                "DPT": "1.001"
+            }
+        },
+        "QG.TC.03": {
+            "SW - L1/2X-BM-TC3-TL 1-TB1-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/0",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-BM-TC3-TL 1-TB1-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/1",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-BN-TC3-TL 2-TB1-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/3",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-BN-TC3-TL 2-TB1-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/4",
+                "DPT": "1.006"
+            },
+            "SW - L5/6D-PL-TC3-TL 3-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/6",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6D-PL-TC3-TL 3-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/7",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L5/6D-PL-TC3-TL 3-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/8",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L5/6D-PL-TC3-TL 3-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/9",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L5/6D-PL-TC3-TL 3-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/11",
+                "DPT": "1.001"
+            },
+            "SW - L7/8D-PL-TC3-TL 4-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/13",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8D-PL-TC3-TL 4-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/14",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L7/8D-PL-TC3-TL 4-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/15",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L7/8D-PL-TC3-TL 4-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/16",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L7/8D-PL-TC3-TL 4-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/18",
+                "DPT": "1.001"
+            },
+            "SW - L9/10D-PL-TC3-TL 5-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/20",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9/10D-PL-TC3-TL 5-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/21",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L9/10D-PL-TC3-TL 5-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/22",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L9/10D-PL-TC3-TL 5-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/23",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L9/10D-PL-TC3-TL 5-TB1-ILUMINACION PALETS": {
+                "DG": "1/4/25",
+                "DPT": "1.001"
+            },
+            "SW - L11/12D-RS-TC3-TL 6-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/27",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11/12D-RS-TC3-TL 6-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/28",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L11/12D-RS-TC3-TL 6-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/29",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L11/12D-RS-TC3-TL 6-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/30",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L11/12D-RS-TC3-TL 6-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/32",
+                "DPT": "1.001"
+            },
+            "SW - L13/14D-RS-TC3-TL 7-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/34",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L13/14D-RS-TC3-TL 7-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/35",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L13/14D-RS-TC3-TL 7-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/36",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L13/14D-RS-TC3-TL 7-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/37",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L13/14D-RS-TC3-TL 7-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/39",
+                "DPT": "1.001"
+            },
+            "SW - L15/16D-RS-TC3-TL 8-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/41",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L15/16D-RS-TC3-TL 8-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/42",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L15/16D-RS-TC3-TL 8-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/43",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L15/16D-RS-TC3-TL 8-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/44",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L15/16D-RS-TC3-TL 8-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/46",
+                "DPT": "1.001"
+            },
+            "SW - L17/18D-RS-TC3-TL 9-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/48",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L17/18D-RS-TC3-TL 9-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/49",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L17/18D-RS-TC3-TL 9-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/50",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L17/18D-RS-TC3-TL 9-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/51",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L17/18D-RS-TC3-TL 9-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/53",
+                "DPT": "1.001"
+            },
+            "SW - L19/20D-RS-TC3-TL 10-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/55",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L19/20D-RS-TC3-TL 10-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/56",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L19/20D-RS-TC3-TL 10-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/57",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L19/20D-RS-TC3-TL 10-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/58",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L19/20D-RS-TC3-TL 10-TB1-ILUMINACION RACK�S": {
+                "DG": "1/4/60",
+                "DPT": "1.001"
+            },
+            "SW - L1/2X-MLL-TC3-TL 1-TIEB1-ILIMINACION MUELLES": {
+                "DG": "1/4/62",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-MLL-TC3-TL 1-TIEB1-ILIMINACION MUELLES": {
+                "DG": "1/4/63",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-MLL-TC3-TL 2-TIEB1-ILIMINACION MUELLES": {
+                "DG": "1/4/65",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-MLL-TC3-TL 2-TIEB1-ILIMINACION MUELLES": {
+                "DG": "1/4/66",
+                "DPT": "1.006"
+            },
+            "SW - L5/6X-EXT-TC3-TL 3-TIEB1-ILUMINACION EXTERIOR": {
+                "DG": "1/4/68",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6X-EXT-TC3-TL 3-TIEB1-ILUMINACION EXTERIOR": {
+                "DG": "1/4/69",
+                "DPT": "1.006"
+            },
+            "SW - L7/8X-EXT-TC3-TL 4-TIEB1-ILUMINACION EXTERIOR": {
+                "DG": "1/4/71",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8X-EXT-TC3-TL 4-TIEB1-ILUMINACION EXTERIOR": {
+                "DG": "1/4/72",
+                "DPT": "1.006"
+            },
+            "SW - L9/10X-RE-TC3-TL 5-TIEB1-RESERVA EQUIPADA": {
+                "DG": "1/4/74",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9/10X-RE-TC3-TL 5-TIEB1-RESERVA EQUIPADA": {
+                "DG": "1/4/75",
+                "DPT": "1.006"
+            },
+            "SW - L11/12X-RE-TC3-TL 6-TIEB1-RESERVA EQUIPADA": {
+                "DG": "1/4/77",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11/12X-RE-TC3-TL 6-TIEB1-RESERVA EQUIPADA": {
+                "DG": "1/4/78",
+                "DPT": "1.006"
+            },
+            "SW - L1/2X-BM-TC3-TL 1-TB2-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/80",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-BM-TC3-TL 1-TB2-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/81",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-BM-TC3-TL 2-TB2-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/83",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-BM-TC3-TL 2-TB2-ILUMINACION BAJO MEZANINE": {
+                "DG": "1/4/84",
+                "DPT": "1.006"
+            },
+            "SW - L5/6D-RS-TC3-TL 3-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/86",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6D-RS-TC3-TL 3-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/87",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L5/6D-RS-TC3-TL 3-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/88",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L5/6D-RS-TC3-TL 3-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/89",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L5/6D-RS-TC3-TL 3-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/91",
+                "DPT": "1.001"
+            },
+            "SW - L7/8D-RS-TC3-TL 4-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/93",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8D-RS-TC3-TL 4-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/94",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L7/8D-RS-TC3-TL 4-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/95",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L7/8D-RS-TC3-TL 4-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/96",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L7/8D-RS-TC3-TL 4-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/98",
+                "DPT": "1.001"
+            },
+            "SW - L9/10D-RS-TC3-TL 5-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/100",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9/10D-RS-TC3-TL 5-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/101",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L9/10D-RS-TC3-TL 5-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/102",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L9/10D-RS-TC3-TL 5-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/103",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L9/10D-RS-TC3-TL 5-TB2-ILUMINACION RACK�S": {
+                "DG": "1/4/105",
+                "DPT": "1.001"
+            },
+            "SW - L11/12D-PL-TC3-TL 6-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/107",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11/12D-PL-TC3-TL 6-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/108",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L11/12D-PL-TC3-TL 6-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/109",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L11/12D-PL-TC3-TL 6-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/110",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L11/12D-PL-TC3-TL 6-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/112",
+                "DPT": "1.001"
+            },
+            "SW - L13/14D-PL-TC3-TL 7-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/114",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L13/14D-PL-TC3-TL 7-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/115",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L13/14D-PL-TC3-TL 7-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/116",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L13/14D-PL-TC3-TL 7-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/117",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L13/14D-PL-TC3-TL 7-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/119",
+                "DPT": "1.001"
+            },
+            "SW - L15/16D-PL-TC3-TL 8-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/121",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L15/16D-PL-TC3-TL 8-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/122",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L15/16D-PL-TC3-TL 8-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/123",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L15/16D-PL-TC3-TL 8-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/124",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L15/16D-PL-TC3-TL 8-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/126",
+                "DPT": "1.001"
+            },
+            "SW - L17/18D-PL-TC3-TL 9-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/128",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L17/18D-PL-TC3-TL 9-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/129",
+                "DPT": "1.006"
+            },
+            "REG_ABS 1 BYTE 0-10 L17/18D-PL-TC3-TL 9-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/130",
+                "DPT": "5.001"
+            },
+            "RS_REG 1 BYTE 0-10 L17/18D-PL-TC3-TL 9-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/131",
+                "DPT": "5.001"
+            },
+            "RS_ON/OFF 0-10 L17/18D-PL-TC3-TL 9-TB2-ILUMINACION PALETS": {
+                "DG": "1/4/133",
+                "DPT": "1.001"
+            },
+            "SW - L1/2X-B2-TC3-TL 1-TEB2-INVERSOR 1 BODEGA 2": {
+                "DG": "1/4/135",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-B2-TC3-TL 1-TEB2-INVERSOR 1 BODEGA 2": {
+                "DG": "1/4/136",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-RE-TC3-TL 2-TEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/138",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-RE-TC3-TL 2-TEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/139",
+                "DPT": "1.006"
+            },
+            "SW - L1/2X-PT-TC3-TL 1-TPB2-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/4/141",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-PT-TC3-TL 1-TPB2-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/4/142",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-PT-TC3-TL 2-TPB2-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/4/144",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-PT-TC3-TL 2-TPB2-ILUMINACION PLATAFORMA TECNICA": {
+                "DG": "1/4/145",
+                "DPT": "1.006"
+            },
+            "SW - L5/6X-CB-TC3-TL 3-TPB2-ILUMINACION CUBIERTA": {
+                "DG": "1/4/147",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6X-CB-TC3-TL 3-TPB2-ILUMINACION CUBIERTA": {
+                "DG": "1/4/148",
+                "DPT": "1.006"
+            },
+            "SW - L7/8X-CB-TC3-TL 4-TPB2-ILUMINACION CUBIERTA": {
+                "DG": "1/4/150",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8X-CB-TC3-TL 4-TPB2-ILUMINACION CUBIERTA": {
+                "DG": "1/4/151",
+                "DPT": "1.006"
+            },
+            "SW - L1/2X-MLL-TC3-TL 1-TIEB2-ILIMINACION MUELLES": {
+                "DG": "1/4/153",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L1/2X-MLL-TC3-TL 1-TIEB2-ILIMINACION MUELLES": {
+                "DG": "1/4/154",
+                "DPT": "1.006"
+            },
+            "SW - L3/4X-MLL-TC3-TL 2-TIEB2-ILIMINACION MUELLES": {
+                "DG": "1/4/156",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L3/4X-MLL-TC3-TL 2-TIEB2-ILIMINACION MUELLES": {
+                "DG": "1/4/157",
+                "DPT": "1.006"
+            },
+            "SW - L5/6X-EXT-TC3-TL 3-TIEB2-ILUMINACION EXTERIOR": {
+                "DG": "1/4/159",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L5/6X-EXT-TC3-TL 3-TIEB2-ILUMINACION EXTERIOR": {
+                "DG": "1/4/160",
+                "DPT": "1.006"
+            },
+            "SW - L7/8X-EXT-TC3-TL 4-TIEB2-ILUMINACION EXTERIOR": {
+                "DG": "1/4/162",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L7/8X-EXT-TC3-TL 4-TIEB2-ILUMINACION EXTERIOR": {
+                "DG": "1/4/163",
+                "DPT": "1.006"
+            },
+            "SW - L9X-RE-TC3-TL 5-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/165",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L9X-RE-TC3-TL 5-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/166",
+                "DPT": "1.006"
+            },
+            "SW - L10X-RE-TC3-TL 6-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/168",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L10X-RE-TC3-TL 6-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/169",
+                "DPT": "1.006"
+            },
+            "SW - L11X-RE-TC3-TL 7-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/171",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L11X-RE-TC3-TL 7-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/172",
+                "DPT": "1.006"
+            },
+            "SW - L12X-RE-TC3-TL 8-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/174",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF L12X-RE-TC3-TL 8-TIEB2-RESERVA EQUIPADA": {
+                "DG": "1/4/175",
+                "DPT": "1.006"
+            }
+        },
+        "QG.TC.04": {
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 1 ILU KIPS": {
+                "DG": "1/5/1",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 2 ILU CCTV-RACK-OFICINA": {
+                "DG": "1/5/2",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 3 ILU SALA DE REUNION": {
+                "DG": "1/5/3",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 4 ILU SALA DE REUNION": {
+                "DG": "1/5/4",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 5 ILU SALA DE REUNION": {
+                "DG": "1/5/5",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 6 ILU ARCHIVO": {
+                "DG": "1/5/6",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 7 ILU ARCHIVO": {
+                "DG": "1/5/7",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 8 ILU ZONA TECNICA-IT": {
+                "DG": "1/5/8",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 9 ILU BANOS": {
+                "DG": "1/5/9",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 10 ILU CAFETERIA Y ESCALERA": {
+                "DG": "1/5/10",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 11 ILU OFICINAS": {
+                "DG": "1/5/11",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 12 ILU OFICINAS": {
+                "DG": "1/5/12",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 13 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/13",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 14 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/14",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 15 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/15",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 16 ILU SALA DE REUNION": {
+                "DG": "1/5/16",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 17 ILU SALA DE CAPACITACION": {
+                "DG": "1/5/17",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 18 ILU SALA DE CAPACITACION": {
+                "DG": "1/5/18",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 19 ILU PASILLO MEZANINE": {
+                "DG": "1/5/19",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 20 ILU PASILLO MEZANINE": {
+                "DG": "1/5/20",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 21 ILU PUENTE": {
+                "DG": "1/5/21",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TM - Q.GTC.04 - CTO 22 ILU PUENTE": {
+                "DG": "1/5/22",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TPM - Q.GTC.04 - CTO 1-2 ILU PLATAFORMA TECNICA": {
+                "DG": "1/5/23",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TPM - Q.GTC.04 - CTO 3-4 ILU PLATAFORMA TECNICA": {
+                "DG": "1/5/24",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TPM - Q.GTC.04 - CTO 5-6 ILU CUBIERTA": {
+                "DG": "1/5/25",
+                "DPT": "1.006"
+            },
+            "RS_ON/OFF_TPM - Q.GTC.04 - CTO 7-8 ILU CUBIERTA": {
+                "DG": "1/5/26",
+                "DPT": "1.006"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 1 ILU KIPS": {
+                "DG": "1/5/62",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 10 ILU CAFETERIA Y ESCALERA": {
+                "DG": "1/5/63",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 11 ILU OFICINAS": {
+                "DG": "1/5/64",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 12 ILU OFICINAS": {
+                "DG": "1/5/65",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 13 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/66",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 14 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/67",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 15 ILU PUESTOS DE TRABAJO": {
+                "DG": "1/5/68",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 16 ILU SALA DE REUNION": {
+                "DG": "1/5/69",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 17 ILU SALA DE CAPACITACION": {
+                "DG": "1/5/70",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 18 ILU SALA DE CAPACITACION": {
+                "DG": "1/5/71",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 19 ILU PASILLO MEZANINE": {
+                "DG": "1/5/72",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 2 ILU CCTV-RACK-OFICINA": {
+                "DG": "1/5/73",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 20 ILU PASILLO MEZANINE": {
+                "DG": "1/5/74",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 21 ILU PUENTE": {
+                "DG": "1/5/75",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 22 ILU PUENTE": {
+                "DG": "1/5/76",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 3 ILU SALA DE REUNION": {
+                "DG": "1/5/77",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 4 ILU SALA DE REUNION": {
+                "DG": "1/5/78",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 5 ILU SALA DE REUNION": {
+                "DG": "1/5/79",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 6 ILU ARCHIVO": {
+                "DG": "1/5/80",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 7 ILU ARCHIVO": {
+                "DG": "1/5/81",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 8 ILU ZONA TECNICA-IT": {
+                "DG": "1/5/82",
+                "DPT": "1.010"
+            },
+            "SWITCH_TM - Q.GTC.04 - CTO 9 ILU BANOS": {
+                "DG": "1/5/83",
+                "DPT": "1.010"
+            },
+            "SWITCH_TPM - Q.GTC.04 - CTO 1-2 ILU PLATAFORMA TECNICA": {
+                "DG": "1/5/84",
+                "DPT": "1.010"
+            },
+            "SWITCH_TPM - Q.GTC.04 - CTO 3-4 ILU PLATAFORMA TECNICA": {
+                "DG": "1/5/85",
+                "DPT": "1.010"
+            },
+            "SWITCH_TPM - Q.GTC.04 - CTO 5-6 ILU CUBIERTA": {
+                "DG": "1/5/86",
+                "DPT": "1.010"
+            },
+            "SWITCH_TPM - Q.GTC.04 - CTO 7-8 ILU CUBIERTA": {
+                "DG": "1/5/87",
+                "DPT": "1.010"
+            },
+            "REG_GRUPO 1_OFICINAS_PUESTOS DE TRABAJO MEZANINNE": {
+                "DG": "1/5/88",
+                "DPT": "5.001"
+            },
+            "REG_GRUPO 2_OFICINAS_PUESTOS DE TRABAJO MEZANINNE": {
+                "DG": "1/5/89",
+                "DPT": "5.001"
+            },
+            "RS_REG_GRUPO 1_OFICINAS_PUESTOS DE TRABAJO MEZANINNE": {
+                "DG": "1/5/90",
+                "DPT": "5.001"
+            },
+            "RS_REG_GRUPO 2_OFICINAS_PUESTOS DE TRABAJO MEZANINNE": {
+                "DG": "1/5/91",
+                "DPT": "5.001"
+            },
+            "REG_ABS_TM - Q.GTC.04 - CTO 19 ILU PASILLO MEZANINE": {
+                "DG": "1/5/92",
+                "DPT": "5.001"
+            },
+            "RS_REG_TM - Q.GTC.04 - CTO 19 ILU PASILLO MEZANINE": {
+                "DG": "1/5/93",
+                "DPT": "5.001"
+            },
+            "REG_ABS_TM - Q.GTC.04 - CTO 20 ILU PASILLO MEZANINE": {
+                "DG": "1/5/94",
+                "DPT": "5.001"
+            },
+            "RS_REG_TM - Q.GTC.04 - CTO 20 ILU PASILLO MEZANINE": {
+                "DG": "1/5/95",
+                "DPT": "5.001"
+            },
+            "ON/OFF_DALI_GRUPO 1_OFICINAS": {
+                "DG": "1/5/96",
+                "DPT": "1.001"
+            },
+            "ON/OFF_DALI_GRUPO 2_OFICINAS": {
+                "DG": "1/5/97",
+                "DPT": "1.001"
+            }
+        },
+        "QG.TC.05": {
+            "SW_TC - QGTC05  - TL - CTO 1  ILU COMEDOR": {
+                "DG": "1/6/1",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 2  ILU COMEDOR": {
+                "DG": "1/6/2",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 3  ILUM. COCINA LAVADO Y PREPARACIONES": {
+                "DG": "1/6/3",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 4  ILUM.CAMARAS - CUARTOS TECNICOS": {
+                "DG": "1/6/4",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 5  ILUM. OFICINA ALMACEN Y CAVA BASURAS": {
+                "DG": "1/6/5",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 6  ILU CORREDOR": {
+                "DG": "1/6/6",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 7  ILU EMERGENCIA.": {
+                "DG": "1/6/7",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 8  ILU CUBIERTA CASINO": {
+                "DG": "1/6/8",
+                "DPT": "1.006"
+            },
+            "SW_TC - QGTC05  - TL - CTO 9  ILU EXHIBIDORES": {
+                "DG": "1/6/9",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 1 - 2  ILU EXTERIOR": {
+                "DG": "1/6/10",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 3 - 4  ILU EXTERIOR": {
+                "DG": "1/6/11",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 5 - 6  ILU EXTERIOR": {
+                "DG": "1/6/12",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 7 - 8  ILU EXTERIOR": {
+                "DG": "1/6/13",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 9 -10 RESERVA EQUIPADA": {
+                "DG": "1/6/14",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 11 -12 RESERVA EQUIPADA": {
+                "DG": "1/6/15",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 13 -14  ILU FACHADA": {
+                "DG": "1/6/16",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 15 -16  ILU FACHADA": {
+                "DG": "1/6/17",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 17 RESERVA EQUIPADA": {
+                "DG": "1/6/18",
+                "DPT": "1.006"
+            },
+            "SW_TIEC - QGTC05  - TL - CTO 18 RESERVA EQUIPADA": {
+                "DG": "1/6/19",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 1  ILU LOBBY": {
+                "DG": "1/6/20",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 2  ILU ENFERMERIA-BANOS- CUARTO TECNICO": {
+                "DG": "1/6/21",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 3  ILUM PASILLO": {
+                "DG": "1/6/22",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 4  ILUM PASILLO": {
+                "DG": "1/6/23",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 5  ILU BANOS- VESTIER": {
+                "DG": "1/6/24",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 6  ILU BANOS- VESTIER": {
+                "DG": "1/6/25",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 7  ILU EMERGENCIA.": {
+                "DG": "1/6/26",
+                "DPT": "1.006"
+            },
+            "SW_TS - QGTC05  - TL - CTO 8  ILU 2� Y 3� PISO": {
+                "DG": "1/6/27",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 1  ILU COMEDOR": {
+                "DG": "1/6/28",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 2  ILU COMEDOR": {
+                "DG": "1/6/29",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 3  ILUM. COCINA LAVADO Y PREPARACIONES": {
+                "DG": "1/6/30",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 4  ILUM.CAMARAS - CUARTOS TECNICOS": {
+                "DG": "1/6/31",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 5  ILUM. OFICINA ALMACEN Y CAVA BASURAS": {
+                "DG": "1/6/32",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 6  ILU CORREDOR": {
+                "DG": "1/6/33",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 7  ILU EMERGENCIA.": {
+                "DG": "1/6/34",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 8  ILU CUBIERTA CASINO": {
+                "DG": "1/6/35",
+                "DPT": "1.006"
+            },
+            "RS_TC - QGTC05  - TL - CTO 9  ILU EXHIBIDORES": {
+                "DG": "1/6/36",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 1 - 2  ILU EXTERIOR": {
+                "DG": "1/6/37",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 3 - 4  ILU EXTERIOR": {
+                "DG": "1/6/38",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 5 - 6  ILU EXTERIOR": {
+                "DG": "1/6/39",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 7 - 8  ILU EXTERIOR": {
+                "DG": "1/6/40",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 9 -10 RESERVA EQUIPADA": {
+                "DG": "1/6/41",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 11 -12 RESERVA EQUIPADA": {
+                "DG": "1/6/42",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 13 -14  ILU FACHADA": {
+                "DG": "1/6/43",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 15 -16  ILU FACHADA": {
+                "DG": "1/6/44",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 17 RESERVA EQUIPADA": {
+                "DG": "1/6/45",
+                "DPT": "1.006"
+            },
+            "RS_TIEC - QGTC05  - TL - CTO 18 RESERVA EQUIPADA": {
+                "DG": "1/6/46",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 1  ILU LOBBY": {
+                "DG": "1/6/47",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 2  ILU ENFERMERIA-BANOS- CUARTO TECNICO": {
+                "DG": "1/6/48",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 3  ILUM PASILLO": {
+                "DG": "1/6/49",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 4  ILUM PASILLO": {
+                "DG": "1/6/50",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 5  ILU BANOS- VESTIER": {
+                "DG": "1/6/51",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 6  ILU BANOS- VESTIER": {
+                "DG": "1/6/52",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 7  ILU EMERGENCIA.": {
+                "DG": "1/6/53",
+                "DPT": "1.006"
+            },
+            "RS_TS - QGTC05  - TL - CTO 8  ILU 2� Y 3� PISO": {
+                "DG": "1/6/54",
+                "DPT": "1.006"
+            },
+            "ON/OFF_GRUPO 1_ILU COMEDOR": {
+                "DG": "1/6/55",
+                "DPT": "1.001"
+            },
+            "ON/OFF_GRUPO 2_ILU COMEDOR": {
+                "DG": "1/6/56",
+                "DPT": "1.001"
+            },
+            "REG_GRUPO 1_ILU COMEDOR": {
+                "DG": "1/6/57",
+                "DPT": "5.001"
+            },
+            "REG_GRUPO 2_ILU COMEDOR": {
+                "DG": "1/6/58",
+                "DPT": "5.001"
+            },
+            "RS_REG_GRUPO 2_ILU CASINO": {
+                "DG": "1/6/60",
+                "DPT": "5.001"
+            },
+            "RS_REG_GRUPO 2_ILU CASINO_3": {
+                "DG": "1/6/60",
+                "DPT": "5.001"
+            }
+        }
+    },
+    "kjb": {
+        "lkjn": {
+            "1": {
+                "DG": "2/0/0",
+                "DPT": "14.039"
+            },
+            "2": {
+                "DG": "2/0/2",
+                "DPT": "14.039"
+            }
+        }
+    },
+    "MEDIDORES DE AGUA": {
+        "Q.GTC1": {
+            "Consumo Documentos": {
+                "DG": "4/1/0",
+                "DPT": "14.076"
+            },
+            "Caudal Documentos": {
+                "DG": "4/1/1",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Documentos": {
+                "DG": "4/1/2",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Documentos": {
+                "DG": "4/1/3",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Documentos": {
+                "DG": "4/1/4",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Documentos": {
+                "DG": "4/1/5",
+                "DPT": "9.025"
+            },
+            "Consumo Porter�a": {
+                "DG": "4/1/9",
+                "DPT": "14.076"
+            },
+            "Caudal Porter�a": {
+                "DG": "4/1/10",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Porter�a": {
+                "DG": "4/1/11",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Porter�a": {
+                "DG": "4/1/12",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Porter�a": {
+                "DG": "4/1/13",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Porter�a": {
+                "DG": "4/1/14",
+                "DPT": "9.025"
+            },
+            "Consumo PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/18",
+                "DPT": "14.076"
+            },
+            "Caudal PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/19",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/20",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/21",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/22",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto PTAP/Reposici�n Equipos de Fr�o": {
+                "DG": "4/1/23",
+                "DPT": "9.025"
+            },
+            "Consumo Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/27",
+                "DPT": "14.076"
+            },
+            "Caudal Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/28",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/29",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/30",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/31",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Extracci�n de Amaniaco Equipos de Fr�o": {
+                "DG": "4/1/32",
+                "DPT": "9.025"
+            },
+            "Consumo Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/36",
+                "DPT": "14.076"
+            },
+            "Caudal Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/37",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/38",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/39",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/40",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Sistema Neutralizador Equipos de Fr�o": {
+                "DG": "4/1/41",
+                "DPT": "9.025"
+            },
+            "Consumo Alimentaci�n de agua para purgador": {
+                "DG": "4/1/45",
+                "DPT": "14.076"
+            },
+            "Caudal Alimentaci�n de agua para purgador": {
+                "DG": "4/1/46",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Alimentaci�n de agua para purgador": {
+                "DG": "4/1/47",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Alimentaci�n de agua para purgador": {
+                "DG": "4/1/48",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Alimentaci�n de agua para purgador": {
+                "DG": "4/1/49",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Alimentaci�n de agua para purgador": {
+                "DG": "4/1/50",
+                "DPT": "9.025"
+            }
+        },
+        "Q.GTC2": {
+            "Consumo Acueducto San Martin/PTAP": {
+                "DG": "4/2/0",
+                "DPT": "14.076"
+            },
+            "Caudal Acueducto San Martin/PTAP": {
+                "DG": "4/2/1",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Acueducto San Martin/PTAP": {
+                "DG": "4/2/2",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Acueducto San Martin/PTAP": {
+                "DG": "4/2/3",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Acueducto San Martin/PTAP": {
+                "DG": "4/2/4",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Acueducto San Martin/PTAP": {
+                "DG": "4/2/5",
+                "DPT": "9.025"
+            },
+            "Consumo Acueducto La Aurora/PTAP": {
+                "DG": "4/2/9",
+                "DPT": "14.076"
+            },
+            "Caudal Acueducto La Aurora/PTAP": {
+                "DG": "4/2/10",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Acueducto La Aurora/PTAP": {
+                "DG": "4/2/11",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Acueducto La Aurora/PTAP": {
+                "DG": "4/2/12",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Acueducto La Aurora/PTAP": {
+                "DG": "4/2/13",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Acueducto La Aurora/PTAP": {
+                "DG": "4/2/14",
+                "DPT": "9.025"
+            },
+            "Consumo PTAP/Distribuci�n": {
+                "DG": "4/2/18",
+                "DPT": "14.076"
+            },
+            "Caudal PTAP/Distribuci�n": {
+                "DG": "4/2/19",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo PTAP/Distribuci�n": {
+                "DG": "4/2/20",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo PTAP/Distribuci�n": {
+                "DG": "4/2/21",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto PTAP/Distribuci�n": {
+                "DG": "4/2/22",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto PTAP/Distribuci�n": {
+                "DG": "4/2/23",
+                "DPT": "9.025"
+            },
+            "Consumo PTAP": {
+                "DG": "4/2/27",
+                "DPT": "14.076"
+            },
+            "Caudal PTAP": {
+                "DG": "4/2/28",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo PTAP": {
+                "DG": "4/2/29",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo PTAP": {
+                "DG": "4/2/30",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto PTAP": {
+                "DG": "4/2/31",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto PTAP": {
+                "DG": "4/2/32",
+                "DPT": "9.025"
+            },
+            "Consumo Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/36",
+                "DPT": "14.076"
+            },
+            "Caudal Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/37",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/38",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/39",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/40",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Pozo de agua Subterranea/PTAP": {
+                "DG": "4/2/41",
+                "DPT": "9.025"
+            },
+            "Consumo Lavado Externo de Camiones": {
+                "DG": "4/2/45",
+                "DPT": "14.076"
+            },
+            "Caudal Lavado Externo de Camiones": {
+                "DG": "4/2/46",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Lavado Externo de Camiones": {
+                "DG": "4/2/47",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Lavado Externo de Camiones": {
+                "DG": "4/2/48",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Lavado Externo de Camiones": {
+                "DG": "4/2/49",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Lavado Externo de Camiones": {
+                "DG": "4/2/50",
+                "DPT": "9.025"
+            },
+            "Consumo Residuos Peligrosos": {
+                "DG": "4/2/54",
+                "DPT": "14.076"
+            },
+            "Caudal Residuos Peligrosos": {
+                "DG": "4/2/55",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Residuos Peligrosos": {
+                "DG": "4/2/56",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Residuos Peligrosos": {
+                "DG": "4/2/57",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Residuos Peligrosos": {
+                "DG": "4/2/58",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Residuos Peligrosos": {
+                "DG": "4/2/59",
+                "DPT": "9.025"
+            },
+            "Consumo Tanque RCI": {
+                "DG": "4/2/63",
+                "DPT": "14.076"
+            },
+            "Caudal Tanque RCI": {
+                "DG": "4/2/64",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Tanque RCI": {
+                "DG": "4/2/65",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Tanque RCI": {
+                "DG": "4/2/66",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Tanque RCI": {
+                "DG": "4/2/67",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Tanque RCI": {
+                "DG": "4/2/68",
+                "DPT": "9.025"
+            },
+            "Consumo Lavado Interno de Camiones": {
+                "DG": "4/2/72",
+                "DPT": "14.076"
+            },
+            "Caudal Lavado Interno de Camiones": {
+                "DG": "4/2/73",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Lavado Interno de Camiones": {
+                "DG": "4/2/74",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Lavado Interno de Camiones": {
+                "DG": "4/2/75",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Lavado Interno de Camiones": {
+                "DG": "4/2/76",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Lavado Interno de Camiones": {
+                "DG": "4/2/77",
+                "DPT": "9.025"
+            }
+        },
+        "Q.GTC3": {
+            "Consumo Bodega": {
+                "DG": "4/3/0",
+                "DPT": "14.076"
+            },
+            "Caudal Bodega": {
+                "DG": "4/3/1",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Bodega": {
+                "DG": "4/3/2",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Bodega": {
+                "DG": "4/3/3",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Bodega": {
+                "DG": "4/3/4",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Bodega": {
+                "DG": "4/3/5",
+                "DPT": "9.025"
+            }
+        },
+        "Q.GTC4": {
+            "Consumo Mezanine": {
+                "DG": "4/4/0",
+                "DPT": "14.076"
+            },
+            "Caudal Mezanine": {
+                "DG": "4/4/1",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Mezanine": {
+                "DG": "4/4/2",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Mezanine": {
+                "DG": "4/4/3",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Mezanine": {
+                "DG": "4/4/4",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Mezanine": {
+                "DG": "4/4/5",
+                "DPT": "9.025"
+            }
+        },
+        "Q.GTC5": {
+            "Consumo Calentadores de Agua Duchas": {
+                "DG": "4/5/0",
+                "DPT": "14.076"
+            },
+            "Caudal Calentadores de Agua Duchas": {
+                "DG": "4/5/1",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Calentadores de Agua Duchas": {
+                "DG": "4/5/2",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Calentadores de Agua Duchas": {
+                "DG": "4/5/3",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Calentadores de Agua Duchas": {
+                "DG": "4/5/4",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Calentadores de Agua Duchas": {
+                "DG": "4/5/5",
+                "DPT": "9.025"
+            },
+            "Consumo BaNos de Servicios": {
+                "DG": "4/5/9",
+                "DPT": "14.076"
+            },
+            "Caudal BaNos de Servicios": {
+                "DG": "4/5/10",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo BaNos de Servicios": {
+                "DG": "4/5/11",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo BaNos de Servicios": {
+                "DG": "4/5/12",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto BaNos de Servicios": {
+                "DG": "4/5/13",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto BaNos de Servicios": {
+                "DG": "4/5/14",
+                "DPT": "9.025"
+            },
+            "Consumo Cocina de Servicios": {
+                "DG": "4/5/18",
+                "DPT": "14.076"
+            },
+            "Caudal Cocina de Servicios": {
+                "DG": "4/5/19",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Cocina de Servicios": {
+                "DG": "4/5/20",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Cocina de Servicios": {
+                "DG": "4/5/21",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Cocina de Servicios": {
+                "DG": "4/5/22",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Cocina de Servicios": {
+                "DG": "4/5/23",
+                "DPT": "9.025"
+            },
+            "Consumo Calentador Electrico Cocina": {
+                "DG": "4/5/27",
+                "DPT": "14.076"
+            },
+            "Caudal Calentador Electrico Cocina": {
+                "DG": "4/5/28",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo Calentador Electrico Cocina": {
+                "DG": "4/5/29",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo Calentador Electrico Cocina": {
+                "DG": "4/5/30",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto Calentador Electrico Cocina": {
+                "DG": "4/5/31",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto Calentador Electrico Cocina": {
+                "DG": "4/5/32",
+                "DPT": "9.025"
+            },
+            "Consumo PTAR": {
+                "DG": "4/5/36",
+                "DPT": "14.076"
+            },
+            "Caudal PTAR": {
+                "DG": "4/5/37",
+                "DPT": "9.025"
+            },
+            "Alarma caudal bajo PTAR": {
+                "DG": "4/5/38",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Bajo PTAR": {
+                "DG": "4/5/39",
+                "DPT": "9.025"
+            },
+            "Alarma caudal Alto PTAR": {
+                "DG": "4/5/40",
+                "DPT": "1.005"
+            },
+            "Valor Caudal Alto PTAR": {
+                "DG": "4/5/41",
+                "DPT": "9.025"
+            }
+        }
+    },
+    "MONITOREO": {
+        "GENERAL": {
+            "BLOQUEO_SPBG_1_QGTC02": {
+                "DG": "7/0/1",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_SPBG_2_QGTC03": {
+                "DG": "7/0/2",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_LACTEOS_QGTC01": {
+                "DG": "7/0/3",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_FRUVER_QGTC01": {
+                "DG": "7/0/4",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_CONGELADOS_QGTC01": {
+                "DG": "7/0/5",
+                "DPT": "1.001"
+            }
+        },
+        "Q.GTC1": {
+            "TEMP_JUNT": {
+                "DG": "7/1/0",
+                "DPT": "9.001"
+            },
+            "HUMEDAD_JUNT": {
+                "DG": "7/1/1",
+                "DPT": "9.007"
+            },
+            "TEMP RECINTO_FLAT SENSATO": {
+                "DG": "7/1/4",
+                "DPT": "9.001"
+            },
+            "TEMP 1_FLAT SENSATO": {
+                "DG": "7/1/5",
+                "DPT": "9.001"
+            },
+            "TEMP 2_FLAT SENSATO": {
+                "DG": "7/1/6",
+                "DPT": "9.001"
+            },
+            "HUMEDAD_FLAT SENSATO": {
+                "DG": "7/1/7",
+                "DPT": "9.007"
+            },
+            "DEW_POINT_FLAT SENSATO": {
+                "DG": "7/1/8",
+                "DPT": "9.001"
+            }
+        },
+        "Q.GTC2": {},
+        "Q.GTC3": {},
+        "Q.GTC4": {},
+        "Q.GTC5": {}
+    },
+    "SENSORES DE PRESENCIA": {
+        "GENERAL": {
+            "BLOQUEO_LACTEOS_QGTC01": {
+                "DG": "9/0/3",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_FRUVER_QGTC01": {
+                "DG": "9/0/4",
+                "DPT": "1.001"
+            },
+            "BLOQUEO_CONGELADOS_QGTC01": {
+                "DG": "9/0/5",
+                "DPT": "1.001"
+            },
+            "BLOQUEO SENSORES BG1": {
+                "DG": "9/0/11",
+                "DPT": "1.001"
+            },
+            "BLOQUEO SENSORES BG2": {
+                "DG": "9/0/12",
+                "DPT": "1.001"
+            },
+            "BLOQUEO SENSORES BG3": {
+                "DG": "9/0/13",
+                "DPT": "1.001"
+            },
+            "BLOQUEO SENSORES BG4": {
+                "DG": "9/0/14",
+                "DPT": "1.001"
+            }
+        },
+        "Q.GTC1": {
+            "DT_SP3-01_CONGELADOS": {
+                "DG": "9/1/1",
+                "DPT": "1.001"
+            },
+            "LM_SP3-01_CONGELADOS": {
+                "DG": "9/1/2",
+                "DPT": "9.004"
+            },
+            "SET LM_SP3-01_CONGELADOS": {
+                "DG": "9/1/3",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-01_CONGELADOS": {
+                "DG": "9/1/4",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-01_CONGELADOS": {
+                "DG": "9/1/5",
+                "DPT": "7"
+            },
+            "RES_SP3-01_CONGELADOS": {
+                "DG": "9/1/7",
+                "DPT": "1.001"
+            },
+            "DT_SP3-02_CONGELADOS": {
+                "DG": "9/1/8",
+                "DPT": "1.001"
+            },
+            "LM_SP3-02_CONGELADOS": {
+                "DG": "9/1/9",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-02_CONGELADOS": {
+                "DG": "9/1/11",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-02_CONGELADOS": {
+                "DG": "9/1/12",
+                "DPT": "7"
+            },
+            "DT_SP3-03_CONGELADOS": {
+                "DG": "9/1/15",
+                "DPT": "1.001"
+            },
+            "LM_SP3-03_CONGELADOS": {
+                "DG": "9/1/16",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-03_CONGELADOS": {
+                "DG": "9/1/18",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-03_CONGELADOS": {
+                "DG": "9/1/19",
+                "DPT": "7"
+            },
+            "DT_SP3-04_CONGELADOS": {
+                "DG": "9/1/22",
+                "DPT": "1.001"
+            },
+            "LM_SP3-04_CONGELADOS": {
+                "DG": "9/1/23",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-04_CONGELADOS": {
+                "DG": "9/1/25",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-04_CONGELADOS": {
+                "DG": "9/1/26",
+                "DPT": "7"
+            },
+            "DT_SP3-05_CONGELADOS": {
+                "DG": "9/1/29",
+                "DPT": "1.001"
+            },
+            "LM_SP3-05_CONGELADOS": {
+                "DG": "9/1/30",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-05_CONGELADOS": {
+                "DG": "9/1/32",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-05_CONGELADOS": {
+                "DG": "9/1/33",
+                "DPT": "7"
+            },
+            "RES_SP3-05_CONGELADOS": {
+                "DG": "9/1/35",
+                "DPT": "1.003"
+            },
+            "DT_SP3-06_CONGELADOS": {
+                "DG": "9/1/36",
+                "DPT": "1.001"
+            },
+            "LM_SP3-06_CONGELADOS": {
+                "DG": "9/1/37",
+                "DPT": "9.004"
+            },
+            "BLQ_SP3-06_CONGELADOS": {
+                "DG": "9/1/39",
+                "DPT": "1.001"
+            },
+            "TS DT_SP3-06_CONGELADOS": {
+                "DG": "9/1/40",
+                "DPT": "7"
+            },
+            "DT_SP1-05_FRUVER": {
+                "DG": "9/1/57",
+                "DPT": "1.001"
+            },
+            "LM_SP1-05_FRUVER": {
+                "DG": "9/1/58",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-05_FRUVER": {
+                "DG": "9/1/59",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-05_FRUVER": {
+                "DG": "9/1/61",
+                "DPT": "5.005"
+            },
+            "DT_SP1-06_FRUVER": {
+                "DG": "9/1/64",
+                "DPT": "1.001"
+            },
+            "LM_SP1-06_FRUVER": {
+                "DG": "9/1/65",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-06_FRUVER": {
+                "DG": "9/1/66",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-06_FRUVER": {
+                "DG": "9/1/68",
+                "DPT": "5.005"
+            },
+            "DT_SP1-07_FRUVER": {
+                "DG": "9/1/71",
+                "DPT": "1.001"
+            },
+            "LM_SP1-07_FRUVER": {
+                "DG": "9/1/72",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-07_FRUVER": {
+                "DG": "9/1/73",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-07_FRUVER": {
+                "DG": "9/1/75",
+                "DPT": "5.005"
+            },
+            "DT_SP2-11_FRUVER": {
+                "DG": "9/1/78",
+                "DPT": "1.001"
+            },
+            "LM_SP2-11_FRUVER": {
+                "DG": "9/1/79",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-11_FRUVER": {
+                "DG": "9/1/80",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-11_FRUVER": {
+                "DG": "9/1/82",
+                "DPT": "5.005"
+            },
+            "DT_SP2-12_FRUVER": {
+                "DG": "9/1/85",
+                "DPT": "1.001"
+            },
+            "LM_SP2-12_FRUVER": {
+                "DG": "9/1/86",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-12_FRUVER": {
+                "DG": "9/1/87",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-12_FRUVER": {
+                "DG": "9/1/89",
+                "DPT": "5.005"
+            },
+            "DT_SP2-13_FRUVER": {
+                "DG": "9/1/92",
+                "DPT": "1.001"
+            },
+            "LM_SP2-13_FRUVER": {
+                "DG": "9/1/93",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-13_FRUVER": {
+                "DG": "9/1/94",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-13_FRUVER": {
+                "DG": "9/1/96",
+                "DPT": "5.005"
+            },
+            "DT_SP2-14_FRUVER": {
+                "DG": "9/1/99",
+                "DPT": "1.001"
+            },
+            "LM_SP2-14_FRUVER": {
+                "DG": "9/1/100",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-14_FRUVER": {
+                "DG": "9/1/101",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-14_FRUVER": {
+                "DG": "9/1/103",
+                "DPT": "5.005"
+            },
+            "DT_SP1-01_LACTEOS": {
+                "DG": "9/1/106",
+                "DPT": "1.001"
+            },
+            "LM_SP1-01_LACTEOS": {
+                "DG": "9/1/107",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-01_LACTEOS": {
+                "DG": "9/1/108",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-01_LACTEOS": {
+                "DG": "9/1/110",
+                "DPT": "5.005"
+            },
+            "DT_SP1-02_LACTEOS": {
+                "DG": "9/1/113",
+                "DPT": "1.001"
+            },
+            "LM_SP1-02_LACTEOS": {
+                "DG": "9/1/114",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-02_LACTEOS": {
+                "DG": "9/1/115",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-02_LACTEOS": {
+                "DG": "9/1/117",
+                "DPT": "5.005"
+            },
+            "DT_SP2-01_LACTEOS": {
+                "DG": "9/1/120",
+                "DPT": "1.001"
+            },
+            "LM_SP2-01_LACTEOS": {
+                "DG": "9/1/121",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-01_LACTEOS": {
+                "DG": "9/1/122",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-01_LACTEOS": {
+                "DG": "9/1/124",
+                "DPT": "5.005"
+            },
+            "DT_SP2-02_LACTEOS": {
+                "DG": "9/1/127",
+                "DPT": "1.001"
+            },
+            "LM_SP2-02_LACTEOS": {
+                "DG": "9/1/128",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-02_LACTEOS": {
+                "DG": "9/1/129",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-02_LACTEOS": {
+                "DG": "9/1/131",
+                "DPT": "5.005"
+            },
+            "DT_SP2-03_LACTEOS": {
+                "DG": "9/1/134",
+                "DPT": "1.001"
+            },
+            "LM_SP2-03_LACTEOS": {
+                "DG": "9/1/135",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-03_LACTEOS": {
+                "DG": "9/1/136",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-03_LACTEOS": {
+                "DG": "9/1/138",
+                "DPT": "5.005"
+            },
+            "DT_SP2-04_LACTEOS": {
+                "DG": "9/1/141",
+                "DPT": "1.001"
+            },
+            "LM_SP2-04_LACTEOS": {
+                "DG": "9/1/142",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-04_LACTEOS": {
+                "DG": "9/1/143",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-04_LACTEOS": {
+                "DG": "9/1/145",
+                "DPT": "5.005"
+            },
+            "DT_SP2-05_LACTEOS": {
+                "DG": "9/1/148",
+                "DPT": "1.001"
+            },
+            "LM_SP2-05_LACTEOS": {
+                "DG": "9/1/149",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-05_LACTEOS": {
+                "DG": "9/1/150",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-05_LACTEOS": {
+                "DG": "9/1/152",
+                "DPT": "5.005"
+            },
+            "DT_SP2-06_LACTEOS": {
+                "DG": "9/1/155",
+                "DPT": "1.001"
+            },
+            "LM_SP2-06_LACTEOS": {
+                "DG": "9/1/156",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-06_LACTEOS": {
+                "DG": "9/1/157",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-06_LACTEOS": {
+                "DG": "9/1/159",
+                "DPT": "5.005"
+            },
+            "DT_SP2-07_LACTEOS": {
+                "DG": "9/1/162",
+                "DPT": "1.001"
+            },
+            "LM_SP2-07_LACTEOS": {
+                "DG": "9/1/163",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-07_LACTEOS": {
+                "DG": "9/1/164",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-07_LACTEOS": {
+                "DG": "9/1/166",
+                "DPT": "5.005"
+            },
+            "DT_SP2-08_LACTEOS": {
+                "DG": "9/1/169",
+                "DPT": "1.001"
+            },
+            "LM_SP2-08_LACTEOS": {
+                "DG": "9/1/170",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-08_LACTEOS": {
+                "DG": "9/1/171",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-08_LACTEOS": {
+                "DG": "9/1/173",
+                "DPT": "5.005"
+            },
+            "DT_SP2-09_LACTEOS": {
+                "DG": "9/1/176",
+                "DPT": "1.001"
+            },
+            "LM_SP2-09_LACTEOS": {
+                "DG": "9/1/177",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-09_LACTEOS": {
+                "DG": "9/1/178",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-09_LACTEOS": {
+                "DG": "9/1/180",
+                "DPT": "5.005"
+            },
+            "DT_SP2-10_LACTEOS": {
+                "DG": "9/1/183",
+                "DPT": "1.001"
+            },
+            "LM_SP2-10_LACTEOS": {
+                "DG": "9/1/184",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-10_LACTEOS": {
+                "DG": "9/1/185",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-10_LACTEOS": {
+                "DG": "9/1/187",
+                "DPT": "5.005"
+            },
+            "DT_SP1-03_PASILLO CAVAS": {
+                "DG": "9/1/190",
+                "DPT": "1.001"
+            },
+            "LM_SP1-03_PASILLO CAVAS": {
+                "DG": "9/1/191",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-03_PASILLO CAVAS": {
+                "DG": "9/1/192",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-03_PASILLO CAVAS": {
+                "DG": "9/1/194",
+                "DPT": "5.005"
+            },
+            "DT_SP1-04_PASILLO CAVAS": {
+                "DG": "9/1/197",
+                "DPT": "1.001"
+            },
+            "LM_SP1-04_PASILLO CAVAS": {
+                "DG": "9/1/198",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-04_PASILLO CAVAS": {
+                "DG": "9/1/199",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-04_PASILLO CAVAS": {
+                "DG": "9/1/201",
+                "DPT": "5.005"
+            }
+        },
+        "Q.GTC2": {
+            "DT_SP1-17_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/1",
+                "DPT": "1.001"
+            },
+            "LM_SP1-17_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/2",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-17_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/3",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-17_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/5",
+                "DPT": "5.005"
+            },
+            "DT_SP1-18_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/8",
+                "DPT": "1.001"
+            },
+            "LM_SP1-18_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/9",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-18_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/10",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-18_BODEGA 3 - PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/12",
+                "DPT": "5.005"
+            },
+            "DT_SP1-19_BODEGA 3 -  PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/15",
+                "DPT": "1.001"
+            },
+            "LM_SP1-19_BODEGA 3 -  PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/16",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-19_BODEGA 3 -  PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/17",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-19_BODEGA 3 -  PALETS/MUELLES BODEGA 3": {
+                "DG": "9/2/19",
+                "DPT": "5.005"
+            },
+            "DT_SP1-20_BODEGA 3 - PALETS BODEGA 3": {
+                "DG": "9/2/22",
+                "DPT": "1.001"
+            },
+            "LM_SP1-20_BODEGA 3 - PALETS BODEGA 3": {
+                "DG": "9/2/23",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-20_BODEGA 3 - PALETS BODEGA 3": {
+                "DG": "9/2/24",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-20_BODEGA 3 - PALETS BODEGA 3": {
+                "DG": "9/2/26",
+                "DPT": "5.005"
+            },
+            "DT_SP1-21_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/29",
+                "DPT": "1.001"
+            },
+            "LM_SP1-21_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/30",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-21_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/31",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-21_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/33",
+                "DPT": "5.005"
+            },
+            "DT_SP1-22_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/36",
+                "DPT": "1.001"
+            },
+            "LM_SP1-22_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/37",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-22_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/38",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-22_BODEGA 3 - PALETS BODEGA 4": {
+                "DG": "9/2/40",
+                "DPT": "5.005"
+            },
+            "DT_SP2-28_BODEGA 3 -  CENTRAL P18": {
+                "DG": "9/2/43",
+                "DPT": "1.001"
+            },
+            "LM_SP2-28_BODEGA 3 -  CENTRAL P18": {
+                "DG": "9/2/44",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-28_BODEGA 3 -  CENTRAL P18": {
+                "DG": "9/2/45",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-28_BODEGA 3 -  CENTRAL P18": {
+                "DG": "9/2/47",
+                "DPT": "5.005"
+            },
+            "DT_SP2-29_BODEGA 3 -  CENTRAL P19": {
+                "DG": "9/2/50",
+                "DPT": "1.001"
+            },
+            "LM_SP2-29_BODEGA 3 -  CENTRAL P19": {
+                "DG": "9/2/51",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-29_BODEGA 3 -  CENTRAL P19": {
+                "DG": "9/2/52",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-29_BODEGA 3 -  CENTRAL P19": {
+                "DG": "9/2/54",
+                "DPT": "5.005"
+            },
+            "DT_SP2-30_BODEGA 3 -  CENTRAL P20": {
+                "DG": "9/2/57",
+                "DPT": "1.001"
+            },
+            "LM_SP2-30_BODEGA 3 -  CENTRAL P20": {
+                "DG": "9/2/58",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-30_BODEGA 3 -  CENTRAL P20": {
+                "DG": "9/2/59",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-30_BODEGA 3 -  CENTRAL P20": {
+                "DG": "9/2/61",
+                "DPT": "5.005"
+            },
+            "DT_SP2-31_BODEGA 3 - PASILLO 20 BODEGA 3": {
+                "DG": "9/2/64",
+                "DPT": "1.001"
+            },
+            "LM_SP2-31_BODEGA 3 - PASILLO 20 BODEGA 3": {
+                "DG": "9/2/65",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-31_BODEGA 3 - PASILLO 20 BODEGA 3": {
+                "DG": "9/2/66",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-31_BODEGA 3 - PASILLO 20 BODEGA 3": {
+                "DG": "9/2/68",
+                "DPT": "5.005"
+            },
+            "DT_SP2-32_BODEGA 3 - PASILLO 19 BODEGA 3": {
+                "DG": "9/2/71",
+                "DPT": "1.001"
+            },
+            "LM_SP2-32_BODEGA 3 - PASILLO 19 BODEGA 3": {
+                "DG": "9/2/72",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-32_BODEGA 3 - PASILLO 19 BODEGA 3": {
+                "DG": "9/2/73",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-32_BODEGA 3 - PASILLO 19 BODEGA 3": {
+                "DG": "9/2/75",
+                "DPT": "5.005"
+            },
+            "DT_SP2-33_BODEGA 3 - PASILLO 18 BODEGA 3": {
+                "DG": "9/2/78",
+                "DPT": "1.001"
+            },
+            "LM_SP2-33_BODEGA 3 - PASILLO 18 BODEGA 3": {
+                "DG": "9/2/79",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-33_BODEGA 3 - PASILLO 18 BODEGA 3": {
+                "DG": "9/2/80",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-33_BODEGA 3 - PASILLO 18 BODEGA 3": {
+                "DG": "9/2/82",
+                "DPT": "5.005"
+            },
+            "DT_SP2-23_BODEGA 4 -  CENTRAL P13": {
+                "DG": "9/2/85",
+                "DPT": "1.001"
+            },
+            "LM_SP2-23_BODEGA 4 -  CENTRAL P13": {
+                "DG": "9/2/86",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-23_BODEGA 4 -  CENTRAL P13": {
+                "DG": "9/2/87",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-23_BODEGA 4 -  CENTRAL P13": {
+                "DG": "9/2/89",
+                "DPT": "5.005"
+            },
+            "DT_SP2-24_BODEGA 4 - CENTRAL P14": {
+                "DG": "9/2/92",
+                "DPT": "1.001"
+            },
+            "LM_SP2-24_BODEGA 4 - CENTRAL P14": {
+                "DG": "9/2/93",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-24_BODEGA 4 - CENTRAL P14": {
+                "DG": "9/2/94",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-24_BODEGA 4 - CENTRAL P14": {
+                "DG": "9/2/96",
+                "DPT": "5.005"
+            },
+            "DT_SP2-25_BODEGA 4 - CENTRAL P15": {
+                "DG": "9/2/99",
+                "DPT": "1.001"
+            },
+            "LM_SP2-25_BODEGA 4 - CENTRAL P15": {
+                "DG": "9/2/100",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-25_BODEGA 4 - CENTRAL P15": {
+                "DG": "9/2/101",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-25_BODEGA 4 - CENTRAL P15": {
+                "DG": "9/2/103",
+                "DPT": "5.005"
+            },
+            "DT_SP2-26_BODEGA 4 -  CENTRAL P16": {
+                "DG": "9/2/106",
+                "DPT": "1.001"
+            },
+            "LM_SP2-26_BODEGA 4 -  CENTRAL P16": {
+                "DG": "9/2/107",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-26_BODEGA 4 -  CENTRAL P16": {
+                "DG": "9/2/108",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-26_BODEGA 4 -  CENTRAL P16": {
+                "DG": "9/2/110",
+                "DPT": "5.005"
+            },
+            "DT_SP2-27_BODEGA 4 -  CENTRAL P17": {
+                "DG": "9/2/113",
+                "DPT": "1.001"
+            },
+            "LM_SP2-27_BODEGA 4 -  CENTRAL P17": {
+                "DG": "9/2/114",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-27_BODEGA 4 -  CENTRAL P17": {
+                "DG": "9/2/115",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-27_BODEGA 4 -  CENTRAL P17": {
+                "DG": "9/2/117",
+                "DPT": "5.005"
+            },
+            "DT_SP2-34_BODEGA 4 - PASILLO 17 BODEGA 3": {
+                "DG": "9/2/120",
+                "DPT": "1.001"
+            },
+            "LM_SP2-34_BODEGA 4 - PASILLO 17 BODEGA 3": {
+                "DG": "9/2/121",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-34_BODEGA 4 - PASILLO 17 BODEGA 3": {
+                "DG": "9/2/122",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-34_BODEGA 4 - PASILLO 17 BODEGA 3": {
+                "DG": "9/2/124",
+                "DPT": "5.005"
+            },
+            "DT_SP2-35_BODEGA 4 - PASILLO 16 BODEGA 3": {
+                "DG": "9/2/127",
+                "DPT": "1.001"
+            },
+            "LM_SP2-35_BODEGA 4 - PASILLO 16 BODEGA 3": {
+                "DG": "9/2/128",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-35_BODEGA 4 - PASILLO 16 BODEGA 3": {
+                "DG": "9/2/129",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-35_BODEGA 4 - PASILLO 16 BODEGA 3": {
+                "DG": "9/2/131",
+                "DPT": "5.005"
+            },
+            "DT_SP2-36_BODEGA 4 - PASILLO 15 BODEGA 3": {
+                "DG": "9/2/134",
+                "DPT": "1.001"
+            },
+            "LM_SP2-36_BODEGA 4 - PASILLO 15 BODEGA 3": {
+                "DG": "9/2/135",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-36_BODEGA 4 - PASILLO 15 BODEGA 3": {
+                "DG": "9/2/136",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-36_BODEGA 4 - PASILLO 15 BODEGA 3": {
+                "DG": "9/2/138",
+                "DPT": "5.005"
+            },
+            "DT_SP2-37_BODEGA 4 - PASILLO 14 BODEGA 3": {
+                "DG": "9/2/141",
+                "DPT": "1.001"
+            },
+            "LM_SP2-37_BODEGA 4 - PASILLO 14 BODEGA 3": {
+                "DG": "9/2/142",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-37_BODEGA 4 - PASILLO 14 BODEGA 3": {
+                "DG": "9/2/143",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-37_BODEGA 4 - PASILLO 14 BODEGA 3": {
+                "DG": "9/2/145",
+                "DPT": "5.005"
+            },
+            "DT_SP2-38_BODEGA 4 - PASILLO 13 BODEGA 3": {
+                "DG": "9/2/148",
+                "DPT": "1.001"
+            },
+            "LM_SP2-38_BODEGA 4 - PASILLO 13 BODEGA 3": {
+                "DG": "9/2/149",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-38_BODEGA 4 - PASILLO 13 BODEGA 3": {
+                "DG": "9/2/150",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-38_BODEGA 4 - PASILLO 13 BODEGA 3": {
+                "DG": "9/2/152",
+                "DPT": "5.005"
+            },
+            "DT_SP2-39_BODEGA 4 - PASILLO 12 BODEGA 3": {
+                "DG": "9/2/155",
+                "DPT": "1.001"
+            },
+            "LM_SP2-39_BODEGA 4 - PASILLO 12 BODEGA 3": {
+                "DG": "9/2/156",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-39_BODEGA 4 - PASILLO 12 BODEGA 3": {
+                "DG": "9/2/157",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-39_BODEGA 4 - PASILLO 12 BODEGA 3": {
+                "DG": "9/2/159",
+                "DPT": "5.005"
+            },
+            "DT_SP2-40_BODEGA 4 - PASILLO 11 BODEGA 3": {
+                "DG": "9/2/162",
+                "DPT": "1.001"
+            },
+            "LM_SP2-40_BODEGA 4 - PASILLO 11 BODEGA 3": {
+                "DG": "9/2/163",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-40_BODEGA 4 - PASILLO 11 BODEGA 3": {
+                "DG": "9/2/164",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-40_BODEGA 4 - PASILLO 11 BODEGA 3": {
+                "DG": "9/2/166",
+                "DPT": "5.005"
+            },
+            "DT_SP2-41_BODEGA 4 - PASILLO 10 BODEGA 3": {
+                "DG": "9/2/169",
+                "DPT": "1.001"
+            },
+            "LM_SP2-41_BODEGA 4 - PASILLO 10 BODEGA 3": {
+                "DG": "9/2/170",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-41_BODEGA 4 - PASILLO 10 BODEGA 3": {
+                "DG": "9/2/171",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-41_BODEGA 4 - PASILLO 10 BODEGA 3": {
+                "DG": "9/2/173",
+                "DPT": "5.005"
+            },
+            "DT_SP2-42_BODEGA 4 - PASILLO 09 BODEGA 3": {
+                "DG": "9/2/176",
+                "DPT": "1.001"
+            },
+            "LM_SP2-42_BODEGA 4 - PASILLO 09 BODEGA 3": {
+                "DG": "9/2/177",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-42_BODEGA 4 - PASILLO 09 BODEGA 3": {
+                "DG": "9/2/178",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-42_BODEGA 4 - PASILLO 09 BODEGA 3": {
+                "DG": "9/2/180",
+                "DPT": "5.005"
+            }
+        },
+        "Q.GTC3": {
+            "DT_SP1-08_BODEGA 1 -  ZONA ESCALERAS DE EMERGENCIA": {
+                "DG": "9/3/1",
+                "DPT": "1.001"
+            },
+            "LM_SP1-08_BODEGA 1 -  ZONA ESCALERAS DE EMERGENCIA": {
+                "DG": "9/3/2",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-08_BODEGA 1 -  ZONA ESCALERAS DE EMERGENCIA": {
+                "DG": "9/3/3",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-08_BODEGA 1 -  ZONA ESCALERAS DE EMERGENCIA": {
+                "DG": "9/3/5",
+                "DPT": "5.005"
+            },
+            "DT_SP1-09_BODEGA 1 -  MUELLES BODEGA 1": {
+                "DG": "9/3/8",
+                "DPT": "1.001"
+            },
+            "LM_SP1-09_BODEGA 1 -  MUELLES BODEGA 1": {
+                "DG": "9/3/9",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-09_BODEGA 1 -  MUELLES BODEGA 1": {
+                "DG": "9/3/10",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-09_BODEGA 1 -  MUELLES BODEGA 1": {
+                "DG": "9/3/12",
+                "DPT": "5.005"
+            },
+            "DT_SP1-10_BODEGA 1 - MUELLES BODEGA 1/2": {
+                "DG": "9/3/15",
+                "DPT": "1.001"
+            },
+            "LM_SP1-10_BODEGA 1 - MUELLES BODEGA 1/2": {
+                "DG": "9/3/16",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-10_BODEGA 1 - MUELLES BODEGA 1/2": {
+                "DG": "9/3/17",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-10_BODEGA 1 - MUELLES BODEGA 1/2": {
+                "DG": "9/3/19",
+                "DPT": "5.005"
+            },
+            "DT_SP1-11_BODEGA 1 - MUELLES BODEGA 2": {
+                "DG": "9/3/22",
+                "DPT": "1.001"
+            },
+            "LM_SP1-11_BODEGA 1 - MUELLES BODEGA 2": {
+                "DG": "9/3/23",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-11_BODEGA 1 - MUELLES BODEGA 2": {
+                "DG": "9/3/24",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-11_BODEGA 1 - MUELLES BODEGA 2": {
+                "DG": "9/3/26",
+                "DPT": "5.005"
+            },
+            "DT_SP1-12_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/29",
+                "DPT": "1.001"
+            },
+            "LM_SP1-12_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/30",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-12_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/31",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-12_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/33",
+                "DPT": "5.005"
+            },
+            "DT_SP1-13_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/36",
+                "DPT": "1.001"
+            },
+            "LM_SP1-13_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/37",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-13_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/38",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-13_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/40",
+                "DPT": "5.005"
+            },
+            "DT_SP1-14_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/43",
+                "DPT": "1.001"
+            },
+            "LM_SP1-14_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/44",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-14_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/45",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-14_BODEGA 1 - PALETS BODEGA 1": {
+                "DG": "9/3/47",
+                "DPT": "5.005"
+            },
+            "DT_SP2-15_BODEGA 1 -  PASILLO 13 - BODEGA 1": {
+                "DG": "9/3/50",
+                "DPT": "1.001"
+            },
+            "LM_SP2-15_BODEGA 1 -  PASILLO 13 - BODEGA 1": {
+                "DG": "9/3/51",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-15_BODEGA 1 -  PASILLO 13 - BODEGA 1": {
+                "DG": "9/3/52",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-15_BODEGA 1 -  PASILLO 13 - BODEGA 1": {
+                "DG": "9/3/54",
+                "DPT": "5.005"
+            },
+            "DT_SP2-16_BODEGA 1 - PASILLO 14 - BODEGA 1": {
+                "DG": "9/3/57",
+                "DPT": "1.001"
+            },
+            "LM_SP2-16_BODEGA 1 - PASILLO 14 - BODEGA 1": {
+                "DG": "9/3/58",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-16_BODEGA 1 - PASILLO 14 - BODEGA 1": {
+                "DG": "9/3/59",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-16_BODEGA 1 - PASILLO 14 - BODEGA 1": {
+                "DG": "9/3/61",
+                "DPT": "5.005"
+            },
+            "DT_SP2-17_BODEGA 1 - PASILLO 15 - BODEGA 1": {
+                "DG": "9/3/64",
+                "DPT": "1.001"
+            },
+            "LM_SP2-17_BODEGA 1 - PASILLO 15 - BODEGA 1": {
+                "DG": "9/3/65",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-17_BODEGA 1 - PASILLO 15 - BODEGA 1": {
+                "DG": "9/3/66",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-17_BODEGA 1 - PASILLO 15 - BODEGA 1": {
+                "DG": "9/3/68",
+                "DPT": "5.005"
+            },
+            "DT_SP2-18_BODEGA 1 - PASILLO 16 - BODEGA 1": {
+                "DG": "9/3/71",
+                "DPT": "1.001"
+            },
+            "LM_SP2-18_BODEGA 1 - PASILLO 16 - BODEGA 1": {
+                "DG": "9/3/72",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-18_BODEGA 1 - PASILLO 16 - BODEGA 1": {
+                "DG": "9/3/73",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-18_BODEGA 1 - PASILLO 16 - BODEGA 1": {
+                "DG": "9/3/75",
+                "DPT": "5.005"
+            },
+            "DT_SP2-19_BODEGA 1 - PASILLO 17 - BODEGA 1": {
+                "DG": "9/3/78",
+                "DPT": "1.001"
+            },
+            "LM_SP2-19_BODEGA 1 - PASILLO 17 - BODEGA 1": {
+                "DG": "9/3/79",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-19_BODEGA 1 - PASILLO 17 - BODEGA 1": {
+                "DG": "9/3/80",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-19_BODEGA 1 - PASILLO 17 - BODEGA 1": {
+                "DG": "9/3/82",
+                "DPT": "5.005"
+            },
+            "DT_SP1-15_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/85",
+                "DPT": "1.001"
+            },
+            "LM_SP1-15_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/86",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-15_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/87",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-15_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/89",
+                "DPT": "5.005"
+            },
+            "DT_SP1-16_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/92",
+                "DPT": "1.001"
+            },
+            "LM_SP1-16_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/93",
+                "DPT": "9.004"
+            },
+            "SET LM_SP1-16_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/94",
+                "DPT": "9.004"
+            },
+            "TS DT_SP1-16_BODEGA 2 - ZONA MUELLES/PALTES BODEGA 2": {
+                "DG": "9/3/96",
+                "DPT": "5.005"
+            },
+            "DT_SP2-20_BODEGA 2 - PASILLO 18 - BODEGA 2": {
+                "DG": "9/3/99",
+                "DPT": "1.001"
+            },
+            "LM_SP2-20_BODEGA 2 - PASILLO 18 - BODEGA 2": {
+                "DG": "9/3/100",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-20_BODEGA 2 - PASILLO 18 - BODEGA 2": {
+                "DG": "9/3/101",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-20_BODEGA 2 - PASILLO 18 - BODEGA 2": {
+                "DG": "9/3/103",
+                "DPT": "5.005"
+            },
+            "DT_SP2-21_BODEGA 2 - PASILLO 19 - BODEGA 2": {
+                "DG": "9/3/106",
+                "DPT": "1.001"
+            },
+            "LM_SP2-21_BODEGA 2 - PASILLO 19 - BODEGA 2": {
+                "DG": "9/3/107",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-21_BODEGA 2 - PASILLO 19 - BODEGA 2": {
+                "DG": "9/3/108",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-21_BODEGA 2 - PASILLO 19 - BODEGA 2": {
+                "DG": "9/3/110",
+                "DPT": "5.005"
+            },
+            "DT_SP2-22_BODEGA 2 - PASILLO 20 - BODEGA 2": {
+                "DG": "9/3/113",
+                "DPT": "1.001"
+            },
+            "LM_SP2-22_BODEGA 2 - PASILLO 20 - BODEGA 2": {
+                "DG": "9/3/114",
+                "DPT": "9.004"
+            },
+            "SET LM_SP2-22_BODEGA 2 - PASILLO 20 - BODEGA 2": {
+                "DG": "9/3/115",
+                "DPT": "9.004"
+            },
+            "TS DT_SP2-22_BODEGA 2 - PASILLO 20 - BODEGA 2": {
+                "DG": "9/3/117",
+                "DPT": "5.005"
+            }
+        },
+        "Q.GTC4": {
+            "DT_SP4-01_MEZZANINE": {
+                "DG": "9/4/1",
+                "DPT": "1.001"
+            },
+            "LM_SP4-01_MEZZANINE": {
+                "DG": "9/4/2",
+                "DPT": "5.001"
+            },
+            "DT_SP4-02_MEZZANINE": {
+                "DG": "9/4/6",
+                "DPT": "1.001"
+            },
+            "LM_SP4-02_MEZZANINE": {
+                "DG": "9/4/7",
+                "DPT": "5.001"
+            },
+            "DT_SP4-03_MEZZANINE": {
+                "DG": "9/4/11",
+                "DPT": "1.001"
+            },
+            "LM_SP4-03_MEZZANINE": {
+                "DG": "9/4/12",
+                "DPT": "5.001"
+            },
+            "SET LM_SP4-03_MEZZANINE": {
+                "DG": "9/4/13",
+                "DPT": "1.001"
+            },
+            "DT_SP4-04_MEZZANINE": {
+                "DG": "9/4/16",
+                "DPT": "1.001"
+            },
+            "LM_SP4-04_MEZZANINE": {
+                "DG": "9/4/17",
+                "DPT": "5.001"
+            },
+            "DT_SP4-05_MEZZANINE": {
+                "DG": "9/4/21",
+                "DPT": "1.001"
+            },
+            "LM_SP4-05_MEZZANINE": {
+                "DG": "9/4/22",
+                "DPT": "5.001"
+            },
+            "DT_SP5-03_MEZZANINE": {
+                "DG": "9/4/37",
+                "DPT": "1.001"
+            },
+            "LM_SP5-03_MEZZANINE": {
+                "DG": "9/4/38",
+                "DPT": "9.004"
+            },
+            "TS DT_SP5-03_MEZZANINE": {
+                "DG": "9/4/40",
+                "DPT": "7.005"
+            },
+            "TS AU_SP5-03_MEZZANINE": {
+                "DG": "9/4/41",
+                "DPT": "7.005"
+            },
+            "DT_SP5-04_MEZZANINE": {
+                "DG": "9/4/43",
+                "DPT": "1.001"
+            },
+            "LM_SP5-04_MEZZANINE": {
+                "DG": "9/4/44",
+                "DPT": "9.004"
+            },
+            "TS DT_SP5-04_MEZZANINE": {
+                "DG": "9/4/46",
+                "DPT": "7.005"
+            },
+            "DT_SP5-05_MEZZANINE": {
+                "DG": "9/4/48",
+                "DPT": "1.001"
+            },
+            "LM_SP5-05_MEZZANINE": {
+                "DG": "9/4/49",
+                "DPT": "9.004"
+            },
+            "TS DT_SP5-05_MEZZANINE": {
+                "DG": "9/4/51",
+                "DPT": "7.005"
+            },
+            "DT_SP6-01_MEZZANINE": {
+                "DG": "9/4/53",
+                "DPT": "1.001"
+            },
+            "LM_SP6-01_MEZZANINE": {
+                "DG": "9/4/54",
+                "DPT": "9.004"
+            },
+            "SET LM_SP6-01_MEZZANINE": {
+                "DG": "9/4/55",
+                "DPT": "9.004"
+            },
+            "TS DT_SP6-01_MEZZANINE": {
+                "DG": "9/4/56",
+                "DPT": "5"
+            },
+            "RES_SP6-01_MEZZANINE": {
+                "DG": "9/4/58",
+                "DPT": "1.001"
+            },
+            "DT_SP6-02_MEZZANINE": {
+                "DG": "9/4/59",
+                "DPT": "1.001"
+            },
+            "LM_SP6-02_MEZZANINE": {
+                "DG": "9/4/60",
+                "DPT": "1.001"
+            },
+            "TS DT_SP6-02_MEZZANINE": {
+                "DG": "9/4/62",
+                "DPT": "5"
+            }
+        },
+        "Q.GTC5": {
+            "DT_SP5-01_CASINO": {
+                "DG": "9/5/1",
+                "DPT": "1.001"
+            },
+            "LM_SP5-01_CASINO": {
+                "DG": "9/5/2",
+                "DPT": "9.004"
+            },
+            "TS DT_SP5-01_CASINO": {
+                "DG": "9/5/5",
+                "DPT": "7.005"
+            },
+            "DT_SP5-02_CASINO": {
+                "DG": "9/5/8",
+                "DPT": "1.001"
+            },
+            "LM_SP5-02_CASINO": {
+                "DG": "9/5/9",
+                "DPT": "9.004"
+            },
+            "TS DT_SP5-02_CASINO": {
+                "DG": "9/5/12",
+                "DPT": "7.005"
+            }
+        }
+    }
+}
